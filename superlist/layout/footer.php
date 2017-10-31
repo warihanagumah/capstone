@@ -18,7 +18,7 @@
 
                     <p>
                         1 University Avenue, Berekuso, Accra<br>
-                        +1-123-456-789, <a href="#">warihanagumah@gmail.com</a>
+                        +1-123-456-789, <a style="font-size:20px" href="#">warihanagumah@gmail.com</a>
                     </p>
                 </div><!-- /.col-* -->
 

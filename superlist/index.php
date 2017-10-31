@@ -96,6 +96,11 @@
                 <div class="mt-150">
                     <div class="hero-image">
                         <div class="hero-image-inner" style="background-image: url('assets/img/tmp/time-saving.png');"> 
+                            <div class="hero-image-content">
+                                <div class="container">                
+                                    <a style="border-radius: 12px;" href="pages/register.php" class="btn btn-primary btn-lg">Get free account</a>
+                                </div><!-- /.container -->
+                            </div><!-- /.hero-image-content -->
                         </div><!-- /.hero-image-inner -->
                     </div><!-- /.hero-image -->
                 </div><!--/.mt-150-->
@@ -113,8 +118,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>World Wide Booking</h2>
-                                <h3 style="font-weight:bold"> A client can book an appointment anywhere on any device with just internet connection and a web browser</h3>
-
+                                <div class="card-simple-actions">
+                                    <a> A client can book an appointment anywhere on any device with just internet connection and a web browser</a>
+                                </div>   
                             </div><!-- /.card-simple-content -->
                             
                         </div><!-- /.card-simple-background -->
@@ -128,7 +134,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Reminders</h2>
-                                <h3 style="font-weight:bold"> A client is sent a notification when an appointment is succesfully boooked and when it is 30 minutes to the appointment</h3>
+                                <div class="card-simple-actions">
+                                    <a> A client is sent a notification when an appointment is succesfully boooked and when it is 30 minutes to the appointment</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->
                             
                         </div><!-- /.card-simple-background -->
@@ -141,7 +149,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Free Services</h2>
-                                <h3 style="font-weight:bold"> This is a free online appointment booking system that can use by all kinds of businesses</h3>
+                                <div class="card-simple-actions">
+                                    <a> This is a free online appointment booking system that can use by all kinds of businesses</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->
                             
                         </div><!-- /.card-simple-background -->
@@ -153,7 +163,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Customizations</h2>
-                                <h3 style="font-weight:bold"> Businesses can customize their booking websites to their specifications</h3>
+                                <div class="card-simple-actions">
+                                    <a> Businesses can customize their booking websites to their specifications</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->
                             
                         </div><!-- /.card-simple-background -->
@@ -167,7 +179,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Appointment cancellation</h2>
-                                <h3 style="font-weight:bold">clients can cancel appointments when they realize they can not make it to the appoint and book at a latter date</h3>
+                                <div class="card-simple-actions">
+                                    <a>clients can cancel appointments when they realize they can not make it to the appoint and book at a latter date</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->
                             
                         </div><!-- /.card-simple-background -->
@@ -180,7 +194,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Client feedback</h2>
-                                <h3 style="font-weight:bold"> A client is given the chnace to give feedback to improve the booking systems and to improve the services of businesses</h3>
+                                <div class="card-simple-actions">
+                                    <a style="font-weight:bold"> A client is given the chance to give feedback to improve the booking systems and to improve the services of businesses</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->                        
                         </div><!-- /.card-simple-background -->
                     </div><!-- /.card-simple -->
@@ -192,7 +208,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Data Analysis</h2>
-                                <h3 style="font-weight:bold"> This application has an exhaustive dashborad for businesses to anlyse clients bookings</h3>
+                                <div class="card-simple-actions">
+                                    <a style="font-weight:bold"> This application has an exhaustive dashborad for businesses to anlyse clients bookings</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->                        
                         </div><!-- /.card-simple-background -->
                     </div><!-- /.card-simple -->
@@ -205,7 +223,9 @@
                         <div class="card-simple-background">
                             <div class="card-simple-content">
                                 <h2>Increase awareness</h2>
-                                <h3 style="font-weight:bold"> Because this booking systems is an online paltform, people from any part of the world can ge to know about the activities of a business</h3>
+                                <div class="card-simple-actions">
+                                    <a style="font-weight:bold"> Because this booking systems is an online paltform, people from any part of the world can ge to know about the activities of a business</a>
+                                </div>    
                             </div><!-- /.card-simple-content -->                        
                         </div><!-- /.card-simple-background -->
                     </div><!-- /.card-simple -->

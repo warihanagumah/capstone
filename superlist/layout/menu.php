@@ -1,5 +1,13 @@
 
+<head>
+    <style>
+        a{
+            font-size: 50px;
+        }
+    </style>
+</head>
 
+<body>
     
     <header class="header header-transparent">
         <div class="header-wrapper">
@@ -61,5 +69,6 @@
             </div><!-- /.container -->
         </div><!-- /.header-wrapper -->
     </header><!-- /.header -->
+</body>     
 
 

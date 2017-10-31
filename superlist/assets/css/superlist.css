@@ -8260,22 +8260,22 @@ h2.widgettitle {
     opacity: 1;
     -webkit-transform: translateY(0%);
     transform: translateY(0%);
-    -webkit-backface-visiblity: hidden; }
+    /*-webkit-backface-visiblity: hidden;*/ }
   .card-simple:hover .card-simple-label {
     margin-top: -25px; }
   .card-simple:hover .card-simple-content {
     padding-top: 0px;
     transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
-    -webkit-backface-visiblity: hidden; }
+    /*-webkit-backface-visiblity: hidden;*/ }
   .card-simple:hover .card-simple-rating {
     opacity: 1;
     transition-delay: .05s;
-    -webkit-backface-visiblity: hidden; }
+    -webkit-backface-visiblity: visible; }
   .card-simple:hover .card-simple-actions {
     opacity: 1;
     transition-delay: .1s;
-    -webkit-backface-visiblity: hidden; }
+    -webkit-backface-visiblity: visible; }
 
 .card-simple-background {
   height: 200px;

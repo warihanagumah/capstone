@@ -13,19 +13,18 @@
     <link href="../assets/libraries/bootstrap-select/bootstrap-select.min.css" rel="stylesheet" type="text/css">
     <link href="../assets/libraries/bootstrap-fileinput/fileinput.min.css" rel="stylesheet" type="text/css">
     <link href="../assets/css/superlist.css" rel="stylesheet" type="text/css" >
-    <link href="../assets/css/style.css" rel="stylesheet" type="text/css" >
 
-    <link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png">
 
-    <title>0Clock - Login</title>
+    <title>Superlist - Login</title>
 </head>
 
 
 <body class="">
 
 <div class="page-wrapper">
-    <!-- include menu-->
-    <?php include("../layout/menu.php") ?>
+    
+   <?php include("../layout/menu.php") ?>
 
     <div class="main">
         <div class="main-inner">
@@ -71,11 +70,11 @@
                 </div><!-- /.content -->
             </div><!-- /.container -->
         </div><!-- /.main-inner -->
-    </div><!-- /.main -->
+    </div><!-- /.main -->-->
 
     <footer class="footer">
-        <?php include ("../layout/footer.php") ?>       
-    </footer><!-- /.footer -->
+    <?php include ("../layout/footer.php") ?>
+</footer><!-- /.footer -->
 
 </div><!-- /.page-wrapper -->
 
@@ -88,7 +87,7 @@
 <script src="../assets/libraries/bootstrap-sass/javascripts/bootstrap/dropdown.js" type="text/javascript"></script>
 <script src="../assets/libraries/bootstrap-sass/javascripts/bootstrap/tooltip.js" type="text/javascript"></script>
 <script src="../assets/libraries/bootstrap-sass/javascripts/bootstrap/tab.js" type="text/javascript"></script>
-<script src=../"assets/libraries/bootstrap-sass/javascripts/bootstrap/alert.js" type="text/javascript"></script>
+<script src="../assets/libraries/bootstrap-sass/javascripts/bootstrap/alert.js" type="text/javascript"></script>
 
 <script src="../assets/libraries/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
 
@@ -107,7 +106,6 @@
 <script type="text/javascript" src="../assets/libraries/bootstrap-fileinput/fileinput.min.js"></script>
 
 <script src="../assets/js/superlist.js" type="text/javascript"></script>
-
 
 </body>
 </html>
